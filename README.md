@@ -60,3 +60,9 @@ To only enable audio accessory without playing, use:
 ```bash
 usbaudio -n
 ```
+
+## Blog post
+
+ - [Introducing USBaudio][blogpost]
+
+[blogpost]: https://blog.rom1v.com/2019/06/introducing-usbaudio/
