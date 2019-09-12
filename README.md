@@ -7,6 +7,11 @@ The purpose is to enable [audio forwarding][issue14] while mirroring with
 [scrcpy]. However, it can be used independently, and does not require USB
 debugging enabled.
 
+_Note that AOA audio, the feature used by USBaudio, is [deprecated] since
+Android 8.0._
+
+[deprecated]: https://source.android.com/devices/accessories/aoa2
+
 [issue14]: https://github.com/Genymobile/scrcpy/issues/14
 [scrcpy]: https://github.com/Genymobile/scrcpy
 
