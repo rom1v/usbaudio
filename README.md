@@ -8,12 +8,13 @@ The purpose is to enable [audio forwarding][issue14] while mirroring with
 debugging enabled.
 
 _Note that AOA audio, the feature used by USBaudio, is [deprecated] since
-Android 8.0._
+Android 8.0. For Android 10, use [sndcpy] instead._
 
 [deprecated]: https://source.android.com/devices/accessories/aoa2
 
 [issue14]: https://github.com/Genymobile/scrcpy/issues/14
 [scrcpy]: https://github.com/Genymobile/scrcpy
+[sndcpy]: https://github.com/rom1v/sndcpy
 
 ## Build
 
